@@ -1,0 +1,8 @@
+---
+server_config:
+  host: CHANGE
+  port: 3780
+  username: CHANGE
+  password: 'CHANGE'
+  uri: /api/1.1/xml
+  target_engine: 1
